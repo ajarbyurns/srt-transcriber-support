@@ -7,7 +7,7 @@ Welcome to the support page for **SRT Transcriber**, the simplest way to transcr
 ## 💬 Frequently Asked Questions
 
 **Q: What audio formats are supported?**  
-A: The app currently works with recorded speech via the built-in mic or audio files supported by iOS (.m4a, .wav, etc.).
+A: The app currently works with recorded speech via the built-in mic.
 
 **Q: Can I transcribe songs or music?**  
 A: At the moment, the app is optimized for speech only. Music transcription is not yet supported.
