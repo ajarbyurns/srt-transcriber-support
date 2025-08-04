@@ -25,8 +25,6 @@ A: After transcription, you can choose to share or save the SRT file to your pre
 For bug reports, feature requests, or other inquiries:
 
 📧 Email: ajarbyurns@gmail.com  
-(Replace with your support email)
-
 ---
 
 ## 🔒 Privacy
